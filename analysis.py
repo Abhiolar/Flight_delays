@@ -108,3 +108,5 @@ def homoscedasticity_check(data):
     residuals = model.resid
     fig = sm.graphics.qqplot(residuals, dist=stats.norm, line='45', fit=True)
     fig.show()
+    
+    
