@@ -15,10 +15,10 @@ def explore_data(data):
 def questions_viz(data):
     plt.figure(figsize =(16,6))
     sns.boxplot(x="Origin", y="Delay_min", data=data, showfliers = False);
-    plt.title('Q1.Categorical plots of delay minutes across all the airports');
+    plt.title('Q1.Categorical plots of delay minutes across all the origin airports');
     plt.figure(figsize =(16,6))
     sns.boxplot(x="Origin", y="Delay_min", data=data, showfliers = True);
-    plt.title('Q1.Categorical plots of delay minutes across all the airports with outliers');
+    plt.title('Q1.Categorical plots of delay minutes across all the origin airports with outliers');
     plt.figure(figsize =(16,6))
     sns.boxplot(x="Month", y="Delay_min", data=data, showfliers = False);
     plt.title('Q2.Categorical plots of delay minutes across all the 10 months of travel recorded');
@@ -27,13 +27,13 @@ def questions_viz(data):
     plt.title('Q3.Categorical plots of delay minutes across all the 28-31 days/dates of travel recorded');
     plt.figure(figsize =(16,6))
     sns.boxplot(x="Origin", y="Wind", data=data, showfliers = False);
-    plt.title('Q4.Categorical plots of Windspeed across all the airports');
+    plt.title('Q4.Categorical plots of Windspeed across all the origin airports');
     plt.figure(figsize =(16,6))
     sns.boxplot(x="Hour", y="Delay_min", data=data, showfliers = False);
-    plt.title('Q5.Categorical plots of Windspeed across all the airports');
+    plt.title('Q5.Categorical plots of Hours across all the origin airports');
     plt.figure(figsize =(16,6))
     sns.boxplot(x="Dest", y="ArrDelay", data=data, showfliers = False);
-    plt.title('Q6.Categorical plots of Arrival delay minutes across all the airports');
+    plt.title('Q6.Categorical plots of Arrival delay minutes across all the Destination airports');
     
     
 def assumptions_check(data):
