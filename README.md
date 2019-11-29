@@ -52,6 +52,6 @@ Final Project4 Notebook.ipynb: Technical notebook that includes
  Regression model
 
 regress.py: Includes functions that perform the following tasks;
- \Creates regression models
- /Cross validation 
- Feature Selction
+- Creates regression models
+- Cross validation 
+- Feature Selction
