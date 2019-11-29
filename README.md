@@ -41,17 +41,17 @@ To be able to predict Arrival Delays, a regression model was built. A polynomial
 This repo contains:
 
 data_cleaning.py: Includes functions that perform the following tasks;
-Deleting rows with null values and duplicated rows
-Changing column names 
-Changing columns into DateTime types
-
+ Deleting rows with null values and duplicated rows
+ Changing column names 
+ Changing columns into DateTime types
+ 
 Final Project4 Notebook.ipynb: Technical notebook that includes 
-Asuumption checks
-visualisation of EDA
-Feature Selection 
-Regression model
+ Asuumption checks
+ visualisation of EDA
+ Feature Selection 
+ Regression model
 
 regress.py: Includes functions that perform the following tasks;
-creates regression models
-cross validation 
-Feature Selction
+ creates regression models
+ cross validation 
+ Feature Selction
