@@ -47,11 +47,11 @@ data_cleaning.py: Includes functions that perform the following tasks;
  
 Final Project4 Notebook.ipynb: Technical notebook that includes 
  Asuumption checks
- visualisation of EDA
+ Visualisation of EDA
  Feature Selection 
  Regression model
 
 regress.py: Includes functions that perform the following tasks;
- creates regression models
- cross validation 
+ \Creates regression models
+ /Cross validation 
  Feature Selction
