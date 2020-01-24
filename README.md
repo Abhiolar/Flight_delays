@@ -28,6 +28,9 @@ ANSWERS-The beginning of the month had the highest average delay which subsided 
 4.Which airports have the highest and lowest average windspeed(in terms of how terrible the weather tends to be)?
 ANSWERS-The airport with the highest average wind speed is Dallas Forth worth Texas and the airport with the lowest average windspeed is Los Angeles international airport
 
+![PG03_AIRPORTS_0708-lax_t670](https://user-images.githubusercontent.com/53583240/73059818-6b9dc000-3e8e-11ea-8780-8e976317560d.png)
+
+
 5.Which hours of the day have the highest and lowest average delay minutes across all the international airports ?
 ANSWERS-The hours with the highest average delay minutes are 02:00 and 03:00 hours and the hours with the lowest average delay minutes are 23:00 and 00:00 hours.
 
