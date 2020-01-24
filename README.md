@@ -3,7 +3,6 @@
 
 Mod4 Project
 
-Team Members: Itua Etiobhio, Yusuf Olodo
 
 Business Problem
 
@@ -46,7 +45,7 @@ data_cleaning.py: Includes functions that perform the following tasks;
 - Changing columns into DateTime types
  
 Final Project4 Notebook.ipynb: Technical notebook that includes 
-- Asuumption checks
+- Assumption checks
 - Visualisation of EDA
 - Feature Selection 
 - Regression model
