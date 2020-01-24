@@ -10,7 +10,8 @@ Business Problem
 
 A US airline has approached our data science company and they are interested in knowing how they can optimise the arrival delays of their flights. We have found a dataset that solves this problem and answered 6 questions the airline was interested in finding out about for the EDA. Our mission is to find what variables that affect Arrival Delays by creating a robust model that can predict Arrival Delays. This mission is essential to the business of our client in terms of identifying what causes arrival delyas so they can minimise the amounts of delay claims that comes through their websites and the amount they have to pay out each time thereby increasing annual profit. Being able to predict arrival delay informs the business on how they can better treat their customers and plan their schedule wisely and if there will be a delay, they can make sure their customers still have a satisfactory experience on their flights.
 
-    
+ ![skynews-flight-delay_4680150](https://user-images.githubusercontent.com/53583240/73059573-e4504c80-3e8d-11ea-96e5-c67cd8786f30.jpg)
+
 # Methodology
 
 The methodology centered around how we can answer the 6 questions posed to us by the client(the US airline). First step was to clean the data which included dropping null values and converting some certain datatypes as evidenced in the technical notebook.
@@ -32,6 +33,7 @@ ANSWERS-The hours with the highest average delay minutes are 02:00 and 03:00 hou
 
 6.Which international airports have the highest and lowest average Arrival delay minutes?
 ANSWERS-The Miami International airport, has the highest average delay minutes in arrival followed by Los Angeles International and the lowest average for arrival delay is O'Hare International Airport, Chicago
+
 
 # Regression Model Output 
 
